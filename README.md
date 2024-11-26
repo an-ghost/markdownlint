@@ -1024,7 +1024,7 @@ For more advanced integration scenarios:
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more information..
 
 ## Releasing
 
