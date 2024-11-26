@@ -1016,7 +1016,7 @@ following projects or one of the tools in the [Related section](#related):
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more information..
 
 ## Releasing
 
